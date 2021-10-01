@@ -37,6 +37,16 @@ Fixed in:
 
 POC: https://github.com/r0ckysec/CVE-2021-22005
 
+**CVE-2021-21972:**
+
+Fixed in:
+
+* 7.0 Build 17327517
+* 6.7 VCSA/Windows Build 17138064
+* 6.5 Build 17590285
+
+POC: https://github.com/horizon3ai/CVE-2021-21972
+
 **CVE-2020-3952:**
 
 Fixed in:
