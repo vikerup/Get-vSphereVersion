@@ -27,12 +27,12 @@ apiVersion    : 7.0.0.0
 
 ### VMware vCenter unauthenticated remote code execution CVEs
 
-**CVE-2021-21972:**
+**CVE-2021-22005**
 
 Fixed in:
 
-* 7.0 Build 17327517
-* 6.7 VCSA/Windows Build 17138064
+* 7.0 Build 18356314
+* 6.7 VCSA/Windows Build 18485166
 * 6.5/6.0 not vulnerable
 
 POC: https://github.com/r0ckysec/CVE-2021-22005
