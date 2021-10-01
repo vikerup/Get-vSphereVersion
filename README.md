@@ -37,6 +37,8 @@ Fixed in:
 
 POC: https://github.com/r0ckysec/CVE-2021-22005
 
+VMware: https://kb.vmware.com/s/article/85717
+
 **CVE-2021-21972:**
 
 Fixed in:
@@ -46,6 +48,8 @@ Fixed in:
 * 6.5 Build 17590285
 
 POC: https://github.com/horizon3ai/CVE-2021-21972
+
+VMware: https://kb.vmware.com/s/article/82374
 
 **CVE-2020-3952:**
 
@@ -58,3 +62,5 @@ Fixed in:
 Note that vCenter must be in-placed upgraded from 6.0/6.5 to 6.7 to be vulnerable
 
 POC: https://github.com/guardicore/vmware_vcenter_cve_2020_3952
+
+VMware: https://blogs.vmware.com/vsphere/2020/04/vsphere-vmsa-2020-0006-cve-2020-3952.html
