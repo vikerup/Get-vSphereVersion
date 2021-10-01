@@ -47,3 +47,4 @@ Fixed in:
 
 Note that vCenter must be in-placed upgraded from 6.0/6.5 to 6.7 to be vulnerable
 
+POC: https://github.com/guardicore/vmware_vcenter_cve_2020_3952
