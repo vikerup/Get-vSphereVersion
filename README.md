@@ -7,7 +7,7 @@ Get-vSphereVersion is a simple way of verifying the current version of a VMWare 
 ### Usage
 
 ```
-PS C:\> iex (new-object net.webclient).downloadstring("https://raw.githubusercontent.com/viksafe/Get-vSphereVersion/main/Get-vSphereVersion.ps1")
+PS C:\> iex (new-object net.webclient).downloadstring("https://raw.githubusercontent.com/vikerup/Get-vSphereVersion/main/Get-vSphereVersion.ps1")
 
 PS C:\> Get-vSphereVersion -servername 192.168.0.10
 
